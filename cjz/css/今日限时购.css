@@ -1,0 +1,87 @@
+/*
+* @Author: hp
+* @Date:   2019-08-08 13:52:43
+* @Last Modified by:   hp
+* @Last Modified time: 2019-08-08 15:59:31
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.box{
+	height: 380px;
+	width: 844px;
+	// background-color: red;
+	margin:0 auto;
+}
+
+.xianshi{
+	width: 420px;
+	height: 190px;
+	float: left;
+	// background-color:pink;
+	border:1px solid #eaeaea;
+}
+.imgreport{
+	width: 231px;
+	height: 188px;
+	// background-color:pink;
+	float:left;
+}
+.imgreport .xianqing{
+	height:36px;
+	color:#999999;
+	overflow: hidden;
+	margin-top:14px;
+}
+.imgreport .price{
+	font-size:20px;
+	width:27px;
+	color:red;
+}
+.imgreport .right1{
+	text-decoration:line-through;
+	font-size:smaller;
+	color:#999;
+	text-decoration:line-through;
+}
+.imgreport .rmb{
+	color:red;
+	margin-top:-3px;
+}
+.container {
+   	width: 90px;
+    height: 4px;
+    background-color: #eaeaea;
+    border-radius: 20px;
+    margin-top:32px;
+}
+.skills {
+		height: 4px;
+    line-height: 4px;
+    // color: white;
+    border-radius: 20px;
+    text-align: center;
+   	width: 98%;
+    background-color: red;
+}
+
+.last{
+	color:#999;
+	margin-top:8px;
+}
+
+.last .btn1{
+	width: 80px;
+	height: 36px;
+	display: inline-block;
+	position: absolute;
+	border:1px solid red;
+	border-radius:50px;
+	cursor:pointer;
+	color:red; 
+	text-decoration:none;
+	margin-left: 70px;
+	margin-top:-8px;
+}

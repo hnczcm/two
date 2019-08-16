@@ -1,0 +1,25 @@
+/*
+* @Author: hp
+* @Date:   2019-08-12 19:44:45
+* @Last Modified by:   hp
+* @Last Modified time: 2019-08-12 20:03:23
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	vertical-align: bottom;
+}
+.allContainer{
+	background: #DA4521;
+	width: 100%;
+	height: 5000px;
+}
+.container{
+	width: 1000px;
+	height: 5000px;
+	margin:0 auto;
+}
+img{
+	width: 100%;
+}

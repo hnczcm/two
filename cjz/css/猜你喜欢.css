@@ -1,0 +1,55 @@
+/*
+* @Author: hp
+* @Date:   2019-08-08 16:25:14
+* @Last Modified by:   hp
+* @Last Modified time: 2019-08-08 18:55:19
+*/
+.xihuan{
+	width: 1105px;
+	height: 321px;
+	// background-color: red;
+	margin:0 auto;
+}
+.xihuan .xihuanbody{
+	width: 204px;
+	height: 304px;
+	border: 1px solid gray;
+	float:left;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+img{
+	width: 204px;
+	height: 204px;
+}
+.xihuanfont{
+	font-size: 12px;
+	font-weight: 400;
+	word-break:break-all;
+	color:#333;
+	line-height: 20px;
+	margin:0 auto;
+	margin-left:8px;
+}
+.xihuanfont1{
+	font-size: 16;
+	color:red;
+	font-weight:700;
+	// line-height:14;
+	margin-top: -3px;
+	margin-left:5px;
+}
+.xihuanbody  .xihuanfont1 .xihuanspan{
+	padding: 5px;
+	font-size:12;
+	font-weight:400;
+	color:#999;
+}
+.xihuanbody .xihuanfont2{
+	color:#999;
+	font-size:12px;
+	height:24px;
+	display: block;
+	margin-left:8px;
+	margin-top:-20px;
+}

@@ -1,0 +1,30 @@
+/*
+* @Author: hp
+* @Date:   2019-08-07 17:20:20
+* @Last Modified by:   hp
+* @Last Modified time: 2019-08-07 19:13:12
+*/
+*{
+	margin: 0;
+	padding: 0;
+	vertical-align: bottom;
+}
+.header{
+	width: 100%;
+	height: 137px;
+
+}
+.touSuBody{
+	width: 100%;
+	height: 1000px;
+	background: #F6F6F6;
+}
+.touSuBody img{
+	width:100%;
+}
+.touSuBody .touSuContainer{
+	width: 1000px;
+	height: 900px;
+	margin:0 auto;
+	background:#FAFAFA;
+}
